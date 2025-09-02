@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Paracetamol 500mg",
+    "manufacturer": "HealthCorp",
+    "serial_number": "HC12345",
+    "expiry_date": "2026-12-31",
+    "hash": "07c97ed6e6a1e11cb6727336754fefc9f3cd6490eea887a0d320caa927428521"
+  },
+  {
+    "name": "Ibuprofen 200mg",
+    "manufacturer": "MedPharm",
+    "serial_number": "MP98765",
+    "expiry_date": "2026-06-30",
+    "hash": "8bd8c18d623077a60a40aa980df34d3547f1dbf3b18c5634d53eea05a30e18d8"
+  }
+]

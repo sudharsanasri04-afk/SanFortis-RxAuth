@@ -1,7 +1,8 @@
 # SanFortis‑RxAuth
 
-SanFortis‑RxAuth is an open‑source proof‑of‑concept aimed at combating counterfeit and substandard medicines.  It shows how pharmacists, clinicians and consumers could verify the authenticity of medicines by scanning QR codes on packaging, analysing simple packaging details and comparing cryptographic hashes stored in a tamper‑evident ledger.
-
+SanFortis‑RxAuth is an open‑source proof‑of‑concept aimed at combating counterfeit and substandard medicines.  It shows how pharmacists, clinicians and consumers could verify the authenticity of medicines by scanning QR codes on packaging, analysing simple packaging details and comparing cryptographic hashes !)
+stored in a tamper‑evident ledger.
+[<img src="docs/workflow.svg" alt="Workflow Diagram" width="600" />
 ## Features
 
 - 📱 **Simple verification script** – demonstrate how a serial number, manufacturer and expiry date can be hashed and compared against an expected value.
